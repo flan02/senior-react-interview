@@ -1,2 +1,1 @@
-# senior-react-interview
-Created with CodeSandbox
+# This repository contains components, each one intended for React senior and mid-level interviews
